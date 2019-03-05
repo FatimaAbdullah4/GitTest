@@ -1,2 +1,3 @@
 # GitTest
-Upload some codes for STCS assignment
+Simple Vacuum Cleaner Program.
+
